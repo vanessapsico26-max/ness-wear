@@ -12,8 +12,5 @@
     "react-dom": "latest",
     "framer-motion": "latest",
     "lucide-react": "latest"
-  },
-  "devDependencies": {
-    "typescript": "latest"
   }
 }
